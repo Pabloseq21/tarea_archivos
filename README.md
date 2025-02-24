@@ -16,6 +16,7 @@ crear un if la variable harders es igual al pais que ingresamos se contea una ve
 
 este es el resultado
 
+![image](https://github.com/user-attachments/assets/6cba8241-8ec9-4724-80ef-77dc3b62bcbf)
 
 
 """
